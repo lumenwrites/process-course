@@ -1,0 +1,15 @@
+content-gdschool/
+content-gdschool-processed/
+content-gdschool-releases/
+/node_modules
+.env*.local
+.env
+.env*
+
+# typescript
+*.tsbuildinfo
+
+.DS_Store
+/.vscode/
+.vscode/settings.json
+
